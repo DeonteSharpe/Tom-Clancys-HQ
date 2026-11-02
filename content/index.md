@@ -1,9 +1,20 @@
 ---
-title: Sharpes Knowledge Base
+title: Tom Clancy's HQ
 ---
-## Introdution
-This is my index file for my Knowledge Base.
+## Introduction
+## Welcome to Tom Clancy’s HQ!
 
+Welcome to **Tom Clancy’s HQ**, your go-to knowledge base for everything related to Rainbow Six Siege! Whether you're a beginner learning the basics or an experienced player looking to improve your skills, this website is designed to help you understand the game better. Here, you'll find helpful information about operators, maps, weapons, equipment, game modes, and strategies. My goal is to create an organized and easy-to-use website where players can quickly find the information they need, learn new tactics, and improve their overall gameplay experience.
+
+
+## Main Categories
+
+- [[example-category-01/index|Operators]]
+- [[example-category-02/index|Maps]]
+- [[example-category-03/index|Game Modes]]
+- [[example-category-04/index|Ranks]]
+- [[example-category-05/index|Weapons and Equipment]]
+  
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
