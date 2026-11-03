@@ -9,11 +9,11 @@ Welcome to **Tom Clancy’s HQ**, your go-to knowledge base for everything relat
 
 ## Main Categories
 
-- [[example-category-01/index|Operators]]
-- [[example-category-02/index|Maps]]
-- [[example-category-03/index|Game Modes]]
-- [[example-category-04/index|Ranks]]
-- [[example-category-05/index|Weapons and Equipment]]
+- [[Opertators/index|Operators]]
+- [[Maps/index|Maps]]
+- [[Game Modes/index|Game Modes]]
+- [[Ranks/index|Ranks]]
+- [[Weapons and Equipment/index|Weapons and Equipment]]
   
 ## The index page
 
