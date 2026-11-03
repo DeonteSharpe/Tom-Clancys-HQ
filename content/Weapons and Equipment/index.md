@@ -1,0 +1,3 @@
+---
+title: Weapons and Equipment
+---
